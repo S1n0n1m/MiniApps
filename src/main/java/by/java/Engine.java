@@ -1,4 +1,4 @@
-package by.javaguru;
+package by.java;
 
 import java.util.Scanner;
 

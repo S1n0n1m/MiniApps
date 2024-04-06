@@ -1,11 +1,11 @@
-package by.javaguru;
+package by.java;
 
 import java.util.Scanner;
-import by.javaguru.games.PrimeGame;
-import by.javaguru.games.CalcGame;
-import by.javaguru.games.GcdGame;
-import by.javaguru.games.ProgressionGame;
-import by.javaguru.games.EvenGame;
+import by.java.games.PrimeGame;
+import by.java.games.CalcGame;
+import by.java.games.GcdGame;
+import by.java.games.ProgressionGame;
+import by.java.games.EvenGame;
 
 public class Main {
     private static final String GREET = "1";

@@ -1,6 +1,6 @@
-package by.javaguru.games;
+package by.java.games;
 
-import by.javaguru.Engine;
+import by.java.Engine;
 
 public class CalcGame {
     private static final int MAX_RANDOM_NUMBER = 10;

@@ -1,7 +1,7 @@
-package by.javaguru.games;
+package by.java.games;
 
-import by.javaguru.Engine;
-import by.javaguru.Utils;
+import by.java.Engine;
+import by.java.Utils;
 
 public class ProgressionGame {
     private static final int MIN = 0;

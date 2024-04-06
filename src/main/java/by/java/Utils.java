@@ -1,4 +1,4 @@
-package by.javaguru;
+package by.java;
 
 public class Utils {
     public static int randomGenerator(int min, int max) {

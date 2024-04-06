@@ -1,6 +1,6 @@
-package by.javaguru.games;
+package by.java.games;
 
-import by.javaguru.Engine;
+import by.java.Engine;
 public class EvenGame {
     private static final int MAX_RANDOM_NUMBER = 30;
     public static String[] generateRoundData() {
