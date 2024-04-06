@@ -14,7 +14,7 @@ public class GcdGame {
     public static String[] generateRoundData() {
         int firstNum = (int) (Math.random() * MAX_RANDOM_NUMBER - 1);
         int secondNum = (int) (Math.random() * MAX_RANDOM_NUMBER - 1);
-        var questions = firstNum + " " + secondNum;
+        var questions = STR."\{firstNum} \{secondNum}";
         var correctAnswer = String.valueOf(calculateGCD(firstNum, secondNum));
         return new String[] {questions, correctAnswer};
     }
