@@ -1,4 +1,4 @@
-<a href="https://codeclimate.com/github/S1n0n1m/java-project-61/maintainability"><img src="https://api.codeclimate.com/v1/badges/63b3b381e73d82eb1a43/maintainability" /></a>
+<a href="https://codeclimate.com/github/S1n0n1m/MiniApps/maintainability"><img src="https://api.codeclimate.com/v1/badges/ec35871e07dca2f1571b/maintainability" /></a>
 
 "Even game"
 
